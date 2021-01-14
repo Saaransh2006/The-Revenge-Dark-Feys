@@ -429,7 +429,7 @@ function draw() {
     fill("red");
     textAlign(CENTER);
     textSize(30);
-    textFont("ar cena");
+    textFont("segoe script");
     text("Narrator: Have you ever wondered why some people see ghosts, or unknown creatures having supernatural powers. Well,",675,210);
     text("these creatures that people see and are afraid of are actually 'Dark Feys', an unknown species that have lived like",675,240);
     text("us, from the starting, even before when the humans were born on earth. They lived inside the earth, in a place they",675,270);
@@ -454,7 +454,7 @@ function draw() {
     fill("red");
     textAlign(CENTER);
     textSize(30);
-    textFont("ar cena");
+    textFont("segoe script");
     text("You'll play this game as Connall. As Connall's supernatural powers were taken, he only has his muscular powers and",675,310)
     text("his Dark Sword to break the security walls, get into the palace and succeed in his mission. You need to throw big",675,340);
     text("hexagonal shaped stones towards the walls to get into the palace. Drag and release the stone towards the walls with",675,370);
