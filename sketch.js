@@ -440,8 +440,8 @@ function draw() {
     text("human can harm them. When humans try to enter these secluded areas these creatures scare them and force them to leave.",675,420);
     text("This story is set in 1678. Connall, a Dark Fey is angry with a human leader, Percival, as he has killed Connall's whole",675,480);
     text("family and now only his brother, Borra is left, who is in Percival's captivity. Connall's powers were taken by the Dark",675,510);
-    text("Fey Government in 1597 when he was found guilty. Connall, who was declared to Life Imprisonment in 1597, has escaped the",675,540);
-    text("the prison and is all set to take revenge and free Borra from the human leader Percival.",675,570);
+    text("Fey Government in 1597 when he was found guilty. Connall, who was declared to Life Imprisonment in 1597, has",675,540);
+    text("escaped the prison and is all set to take revenge and free Borra from the human leader Percival.",675,570);
     fill("white");
     textStyle(BOLD);
     textFont("courier new");
